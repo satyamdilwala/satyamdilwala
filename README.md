@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/🌐_Website-fqrs.co.in/vulnerability/%23satyamdilwala-0a9396?style=for-the-badge)](https://www.fqrs.co.in/vulnerability/#satyamdilwala)
 [![YouTube](https://img.shields.io/badge/YouTube-satyamdilwala-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@satyamdilwala)
 [![Instagram](https://img.shields.io/badge/Instagram-satyamdilwala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satyamdilwala)
-[![Facebook](https://img.shields.io/badge/Facebook-satyamdilwala-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satyamdilwala)
+[![Facebook](https://img.shields.io/badge/Facebook-satyamdilwala-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satyam.dilwala.5)
 [![GitHub](https://img.shields.io/badge/GitHub-satyamdilwala-181717?style=for-the-badge&logo=github)](https://github.com/satyamdilwala)
 
 </div>
@@ -92,7 +92,7 @@ I conduct responsible disclosure research as an independent security researcher,
 [![Security Research](https://img.shields.io/badge/Security_Research-FQRS_Profile-red?style=for-the-badge&logo=hackthebox)](https://www.fqrs.co.in/vulnerability/#satyamdilwala)
 [![YouTube](https://img.shields.io/badge/YouTube-@satyamdilwala-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@satyamdilwala)
 [![Instagram](https://img.shields.io/badge/Instagram-@satyamdilwala-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/satyamdilwala)
-[![Facebook](https://img.shields.io/badge/Facebook-satyamdilwala-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satyamdilwala)
+[![Facebook](https://img.shields.io/badge/Facebook-satyamdilwala-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/satyam.dilwala.5)
 
 </div>
 
