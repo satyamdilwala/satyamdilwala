@@ -4,7 +4,7 @@
 
 # Hi there, I'm Satyam Pandey 👋
 
-### Software Developer · Security Researcher · Content Creator
+### Software Engineer · Security Researcher · Content Creator
 
 [![Website](https://img.shields.io/badge/🌐_Website-fqrs.co.in/vulnerability/%23satyamdilwala-0a9396?style=for-the-badge)](https://www.fqrs.co.in/vulnerability/#satyamdilwala)
 [![YouTube](https://img.shields.io/badge/YouTube-satyamdilwala-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@satyamdilwala)
@@ -19,11 +19,11 @@
 ## 🧑‍💻 About Me
 
 - 🏙️ Based in **Mumbai, Maharashtra, India**
-- 💼 Full-Stack Developer with expertise in **.NET Core, ASP.NET MVC, C#**
+- 💼 Full-Stack **Software Engineer** with expertise in **.NET Core, ASP.NET MVC, C#**
 - 🔐 Independent **Security Researcher** — published findings on [FQRS](https://www.fqrs.co.in/vulnerability/#satyamdilwala)
 - 🤖 Passionate about **AI/ML Integration** and Agentic AI systems
 - 🎥 Content Creator on **YouTube & Instagram**
-- 🏔️ Trekking enthusiast (Himalayan expeditions)
+- 🏔️ **Himalayan Trekker** (Gaumukh, Gangotri & more)
 
 ---
 
