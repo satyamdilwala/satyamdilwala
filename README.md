@@ -64,26 +64,8 @@ I conduct responsible disclosure research as an independent security researcher,
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![Satyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyamdilwala&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdilwala&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-- 🤖 **Agentic AI** (CrewAI, OpenCloak)
-- 🔗 **gRPC & Protobuf** in .NET
-- ☁️ **Docker & Serverless** Cloud architectures
-- 🔐 **Advanced Web Security** techniques
-
----
 
 ## 📫 Connect With Me
 
